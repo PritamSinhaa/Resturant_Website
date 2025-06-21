@@ -46,10 +46,7 @@ body{
     object-fit: cover;
     /* background-color: blue; */
 }
-.about{
-    /* background-color: aquamarine; */
-    
-}
+
 .about h5{
     color: white;
     background-color: green;
@@ -214,9 +211,7 @@ footer{
         font-size: 30px;
         margin: 20px 0px;
     }
-    footer{
-        
-    }
+   
     .box{
         text-align: center;
     }
